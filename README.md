@@ -65,44 +65,6 @@ The following methods were implemented for fake news classification, with their 
 
 ---
 
-## Project Structure
-```
-Fake_News_Classification/
-├── data/                         # Dataset files
-├── models/                       # Saved models (optional)
-├── notebooks/                    # Jupyter Notebooks for experiments
-├── src/                          # Python scripts for preprocessing, training, and evaluation
-├── README.md                     # Project documentation
-└── requirements.txt              # Python dependencies
-```
-
----
-
-## How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/fake-news-classification.git
-   cd fake-news-classification
-   ```
-
-2. Install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-   - Open the relevant `.ipynb` file to train and test the models.
-
-4. Dataset:
-   - Place the dataset file (CSV format) into the `data/` directory.
-   - Update the file path in the notebook if necessary.
-
----
-
 ## Results
 This project demonstrates that using advanced methods like **End-to-End Embedding** and **LSTM** can yield high accuracy for fake news detection. However, simpler models like **BOW** can still be effective depending on the requirements.
 
@@ -115,13 +77,9 @@ This project demonstrates that using advanced methods like **End-to-End Embeddin
 
 ---
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Author
-- **Mohamed Ahmed** - [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+- **Mohamed Ahmed** - [LinkedIn](https://www.linkedin.com/in/mohamed-elfikey/) | [GitHub](https://github.com/mohamedelfikey)
 
 ---
 
