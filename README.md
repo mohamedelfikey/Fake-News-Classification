@@ -80,7 +80,4 @@ This project demonstrates that using advanced methods like **End-to-End Embeddin
 
 ## Author
 - **Mohamed Ahmed** - [LinkedIn](https://www.linkedin.com/in/mohamed-elfikey/) | [GitHub](https://github.com/mohamedelfikey)
-
----
-
-Feel free to contribute or provide suggestions to improve this project!
+- 
